@@ -1,0 +1,21 @@
+{
+  "KPackageStructure": "aurorae",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "parv141206@gmail.com",
+        "Name": "Parv"
+      }
+    ],
+    "Category": "Plasma 6 Window Decorations",
+    "ServiceTypes": ["aurorae"],
+    "EnabledByDefault": true,
+    "Name": "AmoledMac",
+    "Description": "AmoledMac window decorations",
+    "Id": "AmoledMac",
+    "Version": "1.8",
+    "License": "GPL_V3",
+    "X-KDE-PluginInfo-blur": false,
+    "X-KPackage-Dependencies": []
+  }
+}

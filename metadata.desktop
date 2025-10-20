@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=AmoledMac
+Comment=My custom macOS-like theme
+X-KDE-PluginInfo-Author=parv
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Name=AmoledMac  <--- VERY IMPORTANT
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Window Decoration
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
