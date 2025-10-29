@@ -449,31 +449,31 @@
     <g
        id="inactive-center"
        transform="matrix(0.02211825,0,0,-0.02211835,74.634679,1117.2026)"
-       style="fill:#6b6b6b;fill-opacity:1">
+       style="fill:#101010;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          d="m 461.904,4.8749973 c 251.80053,0 455.92533,204.1212727 455.92533,455.9250027 0,251.79627 -204.1248,455.92107 -455.92533,455.92107 C 210.10453,916.72107 5.979168,712.59627 5.979168,460.8 5.979168,208.99627 210.10453,4.8749973 461.904,4.8749973"
-         style="opacity:0.5;fill:#d1d1d1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.06667"
+         style="opacity:0.9;fill:#606060;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.06667"
          id="path14-2" />
       <path
          inkscape:connector-curvature="0"
          d="m 461.904,43.650027 c 230.384,0 417.1456,186.762773 417.1456,417.149973 0,230.37867 -186.7616,417.1456 -417.1456,417.1456 C 231.52107,877.9456 44.754133,691.17867 44.754133,460.8 44.754133,230.4128 231.52107,43.650027 461.904,43.650027"
-         style="opacity:0.5;fill:#d1d1d1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.06667"
+         style="opacity:0.0;fill:#d1d1d1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.06667"
          id="path16-2" />
     </g>
     <g
        id="deactivated-center"
        transform="matrix(0.02211825,0,0,-0.02211835,97.028018,1117.2026)"
-       style="fill:#6b6b6b;fill-opacity:1">
+       style="fill:#101010;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          d="m 461.904,4.8749973 c 251.80053,0 455.92533,204.1212727 455.92533,455.9250027 0,251.79627 -204.1248,455.92107 -455.92533,455.92107 C 210.10453,916.72107 5.979168,712.59627 5.979168,460.8 5.979168,208.99627 210.10453,4.8749973 461.904,4.8749973"
-         style="opacity:0.5;fill:#d1d1d1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.06667"
+         style="opacity:0.9;fill:#606060;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.06667"
          id="path14-2-4" />
       <path
          inkscape:connector-curvature="0"
          d="m 461.904,43.650027 c 230.384,0 417.1456,186.762773 417.1456,417.149973 0,230.37867 -186.7616,417.1456 -417.1456,417.1456 C 231.52107,877.9456 44.754133,691.17867 44.754133,460.8 44.754133,230.4128 231.52107,43.650027 461.904,43.650027"
-         style="opacity:0.5;fill:#d1d1d1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.06667"
+         style="opacity:0.0;fill:#d1d1d1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.06667"
          id="path16-2-0" />
     </g>
   </g>
